@@ -1,4 +1,4 @@
-class Pila:
+class Pila: #waska
     def __init__(self):
         self.items = []
 
