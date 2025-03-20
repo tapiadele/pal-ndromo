@@ -1,4 +1,4 @@
-class Pila: #waska
+class Pila: #waska #y a la abuela? soy la abueeeeela
     def __init__(self):
         self.items = []
 
